@@ -8,4 +8,4 @@
  * Desc:
  */
 
-phpinfo();
+echo 'a';
