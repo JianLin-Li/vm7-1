@@ -24,7 +24,11 @@ class Demo{
 	 */
 	function testDemo(){
 		echo 'aa';
+		echo 'bb';
+		echo 'cc';
+
 	}
 }
 $obj = new Demo();
 $obj->testDemo();
+

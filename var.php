@@ -8,4 +8,4 @@
  * Desc:
  */
 
-echo 'a';
+echo file_get_contents('php://input');
