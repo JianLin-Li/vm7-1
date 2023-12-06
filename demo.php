@@ -26,7 +26,6 @@ class Demo{
 		echo 'aa';
 		echo 'bb';
 		echo 'cc';
-
 	}
 }
 $obj = new Demo();
