@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/vm7-1.com",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "lijianlin",
+      "email": "email@example.com"
+    }
+  ],
+
+
+
+  "require": {
+    "monolog/monolog": "~2.0.0",
+    "enqueue/redis": "^0.10.19"
+  }
+
+
+}
