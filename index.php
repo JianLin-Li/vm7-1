@@ -5,3 +5,5 @@ echo 'c';
 echo 'd';
 echo 'e';
 echo 'f';
+echo 'g';
+echo 'h';
